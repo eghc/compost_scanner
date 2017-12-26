@@ -21,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/heroku/node-js-getting-started.git"
+    "url": "git+https://github.com/eghc/compost_scanner"
   },
   "keywords": [
     "node",
@@ -30,8 +30,8 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/heroku/node-js-getting-started/issues"
+    "url": "https://github.com/eghc/compost_scanner/issues"
   },
-  "homepage": "https://github.com/heroku/node-js-getting-started#readme",
+  "homepage": "https://github.com/eghc/compost_scanner#readme",
   "author": ""
 }
